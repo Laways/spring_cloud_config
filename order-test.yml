@@ -1,5 +1,6 @@
 server:
   port: 8090
+version: self_180915
 spring:
   application:
     name: order
