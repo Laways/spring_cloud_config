@@ -1,7 +1,7 @@
 server:
   port: 8090
 version:
-  number: dev_180918
+  number: dev_180920
   user: dev
 spring:
   application:
